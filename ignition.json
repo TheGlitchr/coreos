@@ -1,5 +1,5 @@
 passwd:
   users:
-    - name: cameron
+    - name: core
       ssh_authorized_keys:
         - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCg8aHJs5F9K4cFN1Qcyaj3auVtn6bP8+wHsITCgGZRAnVbr/7Ncdo1Tx4L5r+2CALqAbZbUh9z/uB+YyJN5+o4dSk761oY2+Bcio+rrnwUY1KHHdf3KoTxXmdXBqga1dDylizQU/G08VGKnvJoTGoXhMHnKXzqhC2J++X86j2G45NvHPooSrS8N8vKquyrFv6Acr3BK15LcwMe+8+MXGIlyyMc/FHAUsmiCLzW3m3nEqWV2TyDAt26/hkhwHCeDxciC2keA/+k0pZkyPWuBskrqprvMDWuRWwnNhXXwOD8zX48h0Iaj0feBZIUr0L17LidrEJXk5lbMH057a4XOIkl cameron@voyager
